@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srandolph2 or Sam
-- 👀 I’m interested in traveling, movies, and good food!
+- 👋 Hi, I’m Samantha Randolph
+- 👀 I’m interested in education and traveling
 - 🌱 I’m currently learning how to be a full stack developer
-- 💞️ I’m looking to collaborate on learning HTML, CSS, and Javascript
-- 📫 How to reach me Twitter @Samanth70428030, Discord ms.syr#9143
+- 💞️ I’m looking to collaborate on anything! I am excited to learn
+- 📫 How to reach me Twitter @ms__syr, Discord ms.syr#9143
 
 <!---
 srandolph2/srandolph2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
